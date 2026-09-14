@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Biochemical Dysphoria"
 linkTitle: "Biochemical Dysphoria"
 description: "The very real and biological factors of gender dysphoria that cause mental disturbance."
+lang: en
 preBody: '_disclaimer'
 classes:
   - gdb
@@ -116,7 +117,7 @@ The intensity of physical and biochemical dysphoria is highly influenced by othe
 
 There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it's nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you're staring at the old you.
 
-Some people experience this in a genderfluid way, with some days leaning male, same days leaning female, and other days not feeling any gender, or both. Others just feel it like a seasonal river; sometimes it swells because of rains up stream, sometimes it slows to a trickle because of drought.
+Some people experience this in a genderfluid way, with some days leaning male, some days leaning female, and other days not feeling any gender, or both. Others just feel it like a seasonal river; sometimes it swells because of rains up stream, sometimes it slows to a trickle because of drought.
 
 All of this is valid, and just because you feel very dysphoric one day and not dysphoric the next does not mean that you aren't really trans.
 

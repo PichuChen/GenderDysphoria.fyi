@@ -18,16 +18,22 @@ const mAnchor = require('markdown-it-anchor');
 const dateFNS = require('date-fns');
 const dateFNSLocales = require('date-fns/locale');
 const str2locale = {
-  'en': dateFNSLocales.enUS,
-  'zh': dateFNSLocales.zhCN,
   'de': dateFNSLocales.de,
+  'el': dateFNSLocales.el,
+  'en': dateFNSLocales.enUS,
+  'es': dateFNSLocales.es,
   'fr': dateFNSLocales.fr,
   'hu': dateFNSLocales.hu,
+  'it': dateFNSLocales.it,
+  'ja': dateFNSLocales.ja,
+  'ko': dateFNSLocales.ko,
+  'nl': dateFNSLocales.nl,
   'pl': dateFNSLocales.pl,
   'pt': dateFNSLocales.pt,
-  'es': dateFNSLocales.es,
-  'nl': dateFNSLocales.nl,
   'ru': dateFNSLocales.ru,
+  'tw': dateFNSLocales.zhTW,
+  'uk': dateFNSLocales.uk,
+  'zh': dateFNSLocales.zhCN,
 };
 
 const markdownEngines = {
@@ -37,8 +43,11 @@ const markdownEngines = {
     typographer: true,
   })
     .enable('image')
+    .use(require('markdown-it-footnote'))
     .use(require('markdown-it-link-attributes'), {
-      pattern: /^https?:/,
+      matcher (href) {
+        return href.startsWith("https:");
+      },
       attrs: {
         target: '_blank',
         rel: 'noopener',

@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "How Gender Dysphoria Manifests: Sexual Dysphoria"
 linkTitle: "Sexual Dysphoria"
 description: "Sometimes a cigar doesn't want to be smoked."
+lang: en
 preBody: '_disclaimer'
 siblings:
   prev: /en/societal-dysphoria
@@ -18,7 +19,7 @@ tweets:
 
 # Sexual Dysphoria
 
-Closely related to societal dysphoria is dysphoria centered around sexuality, sexual relationships, and the act of having sex. [Heteronormative](https://en.wikipedia.org/wiki/Heteronormativity) gender roles come loaded with the expectation that [AMABs will top and AFABs will bottom](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). These dynamics get reinforced by our popular media, by toxic masculinity, and especially by our pornography, even in *transgender* pornography (the bulk of trans/cis pornography involves the trans woman topping). Deviations from these roles often result in shame, both from partners and from peers.
+Closely related to societal dysphoria is dysphoria centered around sexuality, sexual relationships, and the act of having sex. [Heteronormative](https://en.wikipedia.org/wiki/Heteronormativity) gender roles come loaded with the expectation that [AMABs will top and AFABs will bottom](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). These dynamics get reinforced by our popular media, by toxic masculinity, and especially by our pornography, even in *transgender* pornography. (The bulk of trans/cis pornography involves trans women topping, etc.) Deviations from these roles often result in shame, both from partners and from peers.
 
 Of course, this is not an absolute by any means, and many heterosexual cis couples do find ways out of these molds, finding a new dynamic in their relationship, or engaging in kinks to satisfy desires. Some couples find they aren't sexually compatible at all and seek other partners. However, there are many, many external pressures discouraging this kind of self-awareness and discovery, and breaking away from those demands can be extremely difficult — even traumatic. This is particularly true when there is a background of conservatism or religious virtuism.
 

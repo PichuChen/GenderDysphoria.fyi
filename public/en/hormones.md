@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Hormones: How do they work"
 linkTitle: "How Hormones Work"
 description: "Keys, Locks, and Car Ignitions"
+lang: en
 preBody: '_disclaimer'
 siblings:
   prev: /en/chromosomes
@@ -55,7 +56,7 @@ For the purposes of transition, this last category is what we care about the mos
 - [Progestogens](https://en.wikipedia.org/wiki/Progestogen)
 - [Glucocorticoids](https://en.wikipedia.org/wiki/Glucocorticoid)
 - [Mineralocorticoids](https://en.wikipedia.org/wiki/Mineralocorticoid)
-- [Neurosteroids](https://en.wikipedia.org/wiki/Steroid)
+- [Neurosteroids](https://en.wikipedia.org/wiki/Neurosteroid)
 - [Aminosteroids](https://en.wikipedia.org/wiki/Aminosteroid)
 
 The first three of these are what we care about most when it comes to hormone therapy. Note: All human beings, regardless of phenotype, have some of every one of these hormones in their bodies. The ratios are what affect body shape.
