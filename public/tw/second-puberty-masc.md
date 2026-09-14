@@ -236,7 +236,7 @@ DHT（上文提到的）在生殖器內勃起組織的發育中起著關鍵作�
 隨著時間的推移，陰蒂包皮和陰唇會變得乾燥和變厚，小陰唇也可能開始長毛。自體潤滑可能會大大減少，隨著時間的推移，插入可能會變得疼痛。使用更多潤滑劑，以避免撕裂和出血。
 
 <!-- You can also ask your gynecological provider or primary care doctor about vaginal estrogen. The levels of estrogen used in these products are so low, [there's no risk of interference with the effects of testosterone](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/). -->
-你也可以詢問婦科醫療提供者或初級照護醫師是否可使用陰道局部雌激素。這類產品使用的雌激素劑量非常低，[不會干擾睪固酮所帶來的效果](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/)（英文）。
+你也可以詢問婦產科醫師或家庭醫學科醫師，是否適合使用陰道局部雌激素。這類產品使用的雌激素劑量非常低，[不會干擾睪固酮所帶來的效果](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/)（英文）。
 
 <!-- ##### Increased Emissions During Climax -->
 ##### 高潮時分泌物增加

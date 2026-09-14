@@ -35,7 +35,7 @@ tweets:
 
 <!-- An AFAB parent who gives birth may experience severe dysphoria around being labeled as a mother. The vast majority of resources for birth are *extremely* female-gendered, so just the very process of conceiving, carrying, and giving birth is exceptionally loaded with gender expectations. If you are pregnant then you are labeled a mom, regardless of how you actually feel about your role, and with that comes a whole load of assumptions — assumptions about caregiving, breastfeeding, and child-rearing. -->
 
-出生時指定性別為女性(AFAB) 家長在生產後，可能會因為被貼上「母親」的標籤而經歷嚴重的不安感。絕大多數的生產資源都 *非常* 女性化，因此，從受孕、懷胎到分娩的整個過程都充滿了性別期望。如果你懷孕了，那麼你就會被貼上媽媽的標籤，無論你對自己的角色實際感受如何，伴隨而來的就是一大堆的臆測——關於照顧、母乳餵養和育兒的臆測。
+出生時指定性別為女性（AFAB）的家長在生產後，可能會因為被貼上「母親」的標籤而經歷嚴重的不安感。絕大多數的生產資源都 *非常* 女性化，因此，從受孕、懷胎到分娩的整個過程都充滿了性別期望。如果你懷孕了，那麼你就會被貼上媽媽的標籤，無論你對自己的角色實際感受如何，伴隨而來的就是一大堆的臆測——關於照顧、母乳餵養和育兒的臆測。
 
 <!-- [Cisgender-passing](https://en.wikipedia.org/wiki/Passing_(gender)) transfeminine individuals also run into this. If you are holding an infant or tending to a child then you are labeled a mom (unless the child is mixed race, in which case you're demoted to nanny, but that's a whole other topic). This can be validating, because it is a sign that you've been seen as a woman, but it can also be extremely *invalidating* when cis women start to talk about what they think are shared experiences with reproductive processes. -->
 

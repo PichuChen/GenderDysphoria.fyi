@@ -171,7 +171,7 @@ Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria
 
 <!-- It may be felt as horror or revulsion when looking at or touching the external genitals, triggering emotional outbursts or a strong desire to remove the offending organ. AFAB (assigned female at birth) trans people may experience feelings of wrongness during menstruation, or a sense of alien disconnect from their hormone cycle. -->
 
-當看到或觸摸外生殖器時，可能會感到恐懼或厭惡，引發情緒爆發或強烈想要移除令人不快的器官。生理女的跨性別者可能會在月經期間感到不適，或者對自己的荷爾蒙週期感到疏離和格格不入。
+當看到或觸摸外生殖器時，可能會感到恐懼或厭惡，引發情緒爆發或強烈想要移除令人不快的器官。出生時指定性別為女性（AFAB）的跨性別者可能會在月經期間感到不適，或者對自己的荷爾蒙週期感到疏離和格格不入。
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1220143004821938176'
@@ -187,7 +187,7 @@ Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria
 
 <!-- Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus. -->
 
-不想要的身體特徵可能會讓患者羨慕那些因為疾病（例如睪丸癌或乳腺癌）而被迫移除這些特徵的人。患有嚴重生殖器焦慮的生理男(AMAB)往往會希望發生某種意外事故，導致他們失去陰莖。
+不想要的身體特徵可能會讓當事人羨慕那些因為疾病（例如睪丸癌或乳癌）而被迫移除這些特徵的人。出生時指定性別為男性（AMAB）、且有嚴重生殖器不安的人往往會希望發生某種意外事故，導致他們失去陰莖。
 
 <!-- Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. For most of my life, I believed that the reason I hate my body was because I was fat. It wasn't until I started transition that I realized I don't hate my fat at all; I hated having *male* fat. The feminine curves that HRT gave me make me feel so much more in tune with my body. -->
 
@@ -230,7 +230,7 @@ Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria
 
 <!-- **Total body physical dysphoria is not a requirement to be transgender. AFABs do not have to hate their chest, AMABs do not have to hate their penis. Every trans person's experience is different. All are valid.** -->
 
-**並非所有跨性別者都一定會對全身的生理性別感到焦慮。生理女(AMAB)不一定要討厭自己的胸部，生理男不一定要討厭自己的陰莖。每個跨性別者的經歷都不同，而且都是有效的、值得被認可的。**
+**跨性別者不一定會對全身都感到身體不安。出生時指定性別為女性（AFAB）的人不一定要討厭自己的胸部，出生時指定性別為男性（AMAB）的人也不一定要討厭自己的陰莖。每位跨性別者的經驗都不同，而且都是有效且值得被認可的。**
 
 <!-- ### Internalized Body Image Issues -->
 

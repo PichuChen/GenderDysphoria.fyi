@@ -91,8 +91,8 @@ tweets:
 <!-- - An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
 - An AFAB person being called Sir, and feeling better for it. -->
 
-- 一個出生時指定性別為男性(AMAB)的跨性別者被稱為小妹妹，意圖侮辱，卻讓他們臉紅而不是生氣。
-- 一個出生時指定性別為女性(AFAB)的跨性別者被稱為先生，並因此感覺良好。
+- 一個出生時指定性別為男性（AMAB）的跨性別者被稱為小妹妹，意圖侮辱，卻讓他們臉紅而不是生氣。
+- 一個出生時指定性別為女性（AFAB）的跨性別者被稱為先生，並因此感覺良好。
 
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
